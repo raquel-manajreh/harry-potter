@@ -1,0 +1,99 @@
+h1{
+    font-size:50px;
+    font-family:platyno;
+    color:#6d4c41;
+    text-align:center;
+  }
+  h2{
+    font-size:30px;
+    font-family:courier new;
+    color:#795548;
+    text-align:center;
+  }
+  .nav{
+    weigth:20px;
+    height:25px;
+    position:sticky;
+    background-color:#afb42b;
+    top:0px;
+    font-size:20px;
+    font-weight:bold;
+    text-decoration:none;
+    text-align:center;
+    padding:15px;
+  }
+  .space{
+    color:#00695c;
+    font-size:20px;
+    text-decoration:none;
+  }
+  .interline{
+    padding:20px;
+    margin:25px;
+  }
+  h3{
+    font-weight:bold;
+    color:#827717;
+    text-align:center;
+  }
+  .calibri{
+    color:#212121;
+    font-family:calibri light;
+  }
+  .box-article{
+    font-size:18px;
+    background-color:#e6ee9c;
+    border:1px solid black;
+    display:inline-block;
+    margin:10px;
+    padding:10px;
+    text-align:center;
+  }
+  .img{
+    border:2px solid #212121;
+    margin:0 auto;
+  }
+  .background-jpg{
+    margin:30px 0px 60px 130px;
+    padding:20px;
+    background-color:#dce775;
+  }
+  .ref{
+    color:#01579b;
+    font-family:calibri light;
+    text-decoration:none;
+  }
+  .box-faq{ 
+    font-size:20px;
+    font-weight:bold;
+    text-decoration:none;
+    padding:30px;
+    margin-button:10px;
+    border:1px #ffffff;
+    text-align:center,
+  }
+  .fieldset{
+    padding:20px;
+  }
+  .word{
+    padding:10px 0px 10px 20px;
+    text-align:center;
+  }
+  .ul-center{
+    margin-left:180px;
+  }
+  .color{
+    background-color:#f0f4c3;
+  }
+  ref-web{
+    font-size:30px;
+  }
+  .poll{
+    color:#006064;
+    margin:40px 100px 40px 300px;
+    padding:20px;
+  }
+  .on-top{
+    position:absolute;
+    margin:20px;
+  }
